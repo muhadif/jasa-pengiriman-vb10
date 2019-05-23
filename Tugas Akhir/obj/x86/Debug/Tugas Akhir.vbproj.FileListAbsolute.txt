@@ -1,0 +1,29 @@
+E:\Kuliah\Semester 4\[PRAKTIK] Pemrograman Visual 2\Proyek Akhir\Tugas Akhir\Tugas Akhir\bin\Debug\Tugas Akhir.exe
+E:\Kuliah\Semester 4\[PRAKTIK] Pemrograman Visual 2\Proyek Akhir\Tugas Akhir\Tugas Akhir\bin\Debug\Tugas Akhir.pdb
+E:\Kuliah\Semester 4\[PRAKTIK] Pemrograman Visual 2\Proyek Akhir\Tugas Akhir\Tugas Akhir\bin\Debug\Tugas Akhir.xml
+E:\Kuliah\Semester 4\[PRAKTIK] Pemrograman Visual 2\Proyek Akhir\Tugas Akhir\Tugas Akhir\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\Kuliah\Semester 4\[PRAKTIK] Pemrograman Visual 2\Proyek Akhir\Tugas Akhir\Tugas Akhir\obj\x86\Debug\WindowsApplication1.LoginForm1.resources
+E:\Kuliah\Semester 4\[PRAKTIK] Pemrograman Visual 2\Proyek Akhir\Tugas Akhir\Tugas Akhir\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Kuliah\Semester 4\[PRAKTIK] Pemrograman Visual 2\Proyek Akhir\Tugas Akhir\Tugas Akhir\obj\x86\Debug\Tugas Akhir.vbproj.GenerateResource.Cache
+E:\Kuliah\Semester 4\[PRAKTIK] Pemrograman Visual 2\Proyek Akhir\Tugas Akhir\Tugas Akhir\obj\x86\Debug\Tugas Akhir.exe
+E:\Kuliah\Semester 4\[PRAKTIK] Pemrograman Visual 2\Proyek Akhir\Tugas Akhir\Tugas Akhir\obj\x86\Debug\Tugas Akhir.xml
+E:\Kuliah\Semester 4\[PRAKTIK] Pemrograman Visual 2\Proyek Akhir\Tugas Akhir\Tugas Akhir\obj\x86\Debug\Tugas Akhir.pdb
+E:\Kuliah\Semester 4\[PRAKTIK] Pemrograman Visual 2\Proyek Akhir\Tugas Akhir\Tugas Akhir\obj\x86\Debug\Tugas Akhir.vbprojResolveAssemblyReference.cache
+E:\Kuliah\Semester 4\[PRAKTIK] Pemrograman Visual 2\Proyek Akhir\Tugas Akhir\Tugas Akhir\obj\x86\Debug\WindowsApplication1.Form2.resources
+E:\Kuliah\Semester 4\[PRAKTIK] Pemrograman Visual 2\Proyek Akhir\Tugas Akhir\Tugas Akhir\obj\x86\Debug\WindowsApplication1.Form3.resources
+Z:\Kuliah\Materi Kuliah\Semester 4\Pemrograman Visual 2\Tugas Akhir Rev\Tugas Akhir\Tugas Akhir\obj\x86\Debug\Tugas Akhir.exe
+Z:\Kuliah\Materi Kuliah\Semester 4\Pemrograman Visual 2\Tugas Akhir Rev\Tugas Akhir\Tugas Akhir\obj\x86\Debug\Tugas Akhir.xml
+Z:\Kuliah\Materi Kuliah\Semester 4\Pemrograman Visual 2\Tugas Akhir Rev\Tugas Akhir\Tugas Akhir\obj\x86\Debug\Tugas Akhir.pdb
+Z:\Kuliah\Materi Kuliah\Semester 4\Pemrograman Visual 2\Tugas Akhir Rev\Tugas Akhir\Tugas Akhir\bin\Debug\Tugas Akhir.exe
+Z:\Kuliah\Materi Kuliah\Semester 4\Pemrograman Visual 2\Tugas Akhir Rev\Tugas Akhir\Tugas Akhir\bin\Debug\Tugas Akhir.pdb
+Z:\Kuliah\Materi Kuliah\Semester 4\Pemrograman Visual 2\Tugas Akhir Rev\Tugas Akhir\Tugas Akhir\bin\Debug\Tugas Akhir.xml
+Z:\Kuliah\Materi Kuliah\Semester 4\Pemrograman Visual 2\Tugas Akhir Rev\Tugas Akhir\Tugas Akhir\obj\x86\Debug\Tugas Akhir.vbprojResolveAssemblyReference.cache
+Z:\Kuliah\Materi Kuliah\Semester 4\Pemrograman Visual 2\Tugas Akhir Rev\Tugas Akhir\Tugas Akhir\obj\x86\Debug\WindowsApplication1.Form1.resources
+Z:\Kuliah\Materi Kuliah\Semester 4\Pemrograman Visual 2\Tugas Akhir Rev\Tugas Akhir\Tugas Akhir\obj\x86\Debug\WindowsApplication1.Form2.resources
+Z:\Kuliah\Materi Kuliah\Semester 4\Pemrograman Visual 2\Tugas Akhir Rev\Tugas Akhir\Tugas Akhir\obj\x86\Debug\WindowsApplication1.Form3.resources
+Z:\Kuliah\Materi Kuliah\Semester 4\Pemrograman Visual 2\Tugas Akhir Rev\Tugas Akhir\Tugas Akhir\obj\x86\Debug\WindowsApplication1.Form4.resources
+Z:\Kuliah\Materi Kuliah\Semester 4\Pemrograman Visual 2\Tugas Akhir Rev\Tugas Akhir\Tugas Akhir\obj\x86\Debug\WindowsApplication1.Form5.resources
+Z:\Kuliah\Materi Kuliah\Semester 4\Pemrograman Visual 2\Tugas Akhir Rev\Tugas Akhir\Tugas Akhir\obj\x86\Debug\WindowsApplication1.Form6.resources
+Z:\Kuliah\Materi Kuliah\Semester 4\Pemrograman Visual 2\Tugas Akhir Rev\Tugas Akhir\Tugas Akhir\obj\x86\Debug\WindowsApplication1.LoginForm1.resources
+Z:\Kuliah\Materi Kuliah\Semester 4\Pemrograman Visual 2\Tugas Akhir Rev\Tugas Akhir\Tugas Akhir\obj\x86\Debug\WindowsApplication1.Resources.resources
+Z:\Kuliah\Materi Kuliah\Semester 4\Pemrograman Visual 2\Tugas Akhir Rev\Tugas Akhir\Tugas Akhir\obj\x86\Debug\Tugas Akhir.vbproj.GenerateResource.Cache
