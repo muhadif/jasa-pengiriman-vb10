@@ -37,7 +37,6 @@ Public Class Form5
                 lblSenderAddress.Text = rd.GetString(9)
                 lblReceiver.Text = rd.GetString(13)
                 lblReciverAddress.Text = rd.GetString(14)
-                
             End If
 
             sql = "Select date as Tanggal, location as Lokasi from history INNER JOIN goods ON good_id = goods.id where goods.id= '" & tbSearch.Text & "' Order By date DESC"

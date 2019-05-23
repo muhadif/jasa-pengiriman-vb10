@@ -27,3 +27,4 @@ Z:\Kuliah\Materi Kuliah\Semester 4\Pemrograman Visual 2\Tugas Akhir Rev\Tugas Ak
 Z:\Kuliah\Materi Kuliah\Semester 4\Pemrograman Visual 2\Tugas Akhir Rev\Tugas Akhir\Tugas Akhir\obj\x86\Debug\WindowsApplication1.LoginForm1.resources
 Z:\Kuliah\Materi Kuliah\Semester 4\Pemrograman Visual 2\Tugas Akhir Rev\Tugas Akhir\Tugas Akhir\obj\x86\Debug\WindowsApplication1.Resources.resources
 Z:\Kuliah\Materi Kuliah\Semester 4\Pemrograman Visual 2\Tugas Akhir Rev\Tugas Akhir\Tugas Akhir\obj\x86\Debug\Tugas Akhir.vbproj.GenerateResource.Cache
+Z:\Kuliah\Materi Kuliah\Semester 4\Pemrograman Visual 2\Tugas Akhir Rev\Tugas Akhir\Tugas Akhir\obj\x86\Debug\WindowsApplication1.PrintData.resources

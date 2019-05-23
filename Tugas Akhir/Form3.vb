@@ -262,5 +262,11 @@ Public Class Form3
     Private Sub btn_exit_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_exit.Click
         Close()
     End Sub
+
+    Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
+        Me.Hide()
+        PrintData.setData(tb_kode.Text)
+        PrintData.Show()
+    End Sub
 End Class
 
